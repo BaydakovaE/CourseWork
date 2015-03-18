@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "form", "form\form.vcproj", "{F70F6F8D-1190-4C09-AB9D-B6B0ADEB7EC7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ReCoder", "ReCoder\ReCoder.vdproj", "{D4E63637-1008-4AC1-94D0-1132E415093E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70F6F8D-1190-4C09-AB9D-B6B0ADEB7EC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F70F6F8D-1190-4C09-AB9D-B6B0ADEB7EC7}.Debug|Win32.Build.0 = Debug|Win32
+		{F70F6F8D-1190-4C09-AB9D-B6B0ADEB7EC7}.Release|Win32.ActiveCfg = Release|Win32
+		{F70F6F8D-1190-4C09-AB9D-B6B0ADEB7EC7}.Release|Win32.Build.0 = Release|Win32
+		{D4E63637-1008-4AC1-94D0-1132E415093E}.Debug|Win32.ActiveCfg = Debug
+		{D4E63637-1008-4AC1-94D0-1132E415093E}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
